@@ -5,5 +5,13 @@
     "email": "demo@autodiag.app",
     "passwordHash": "$2b$10$gQ4fPtL5828KBKoprvYsoeAP.WQ0jVR1NZGWSv4wGNpPBCcAgyBX6",
     "createdAt": "2026-03-29T12:09:50.548Z"
+  },
+  {
+    "id": "954e6180-168a-434d-b013-86ca40b6c901",
+    "name": "Dhruv Patel",
+    "email": "dhruv545patel@gmail.com",
+    "passwordHash": "$2b$10$cijq5XLuqv.xv8iHzAp82uzCYv46QjtQTUjo3wED7FN.hqf8mWCoK",
+    "phone": "08401463795",
+    "createdAt": "2026-03-29T17:06:30.308Z"
   }
 ]

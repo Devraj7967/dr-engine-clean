@@ -1,0 +1,9 @@
+[
+  {
+    "id": "6de8f758-b718-4228-ab33-8b2bd4852290",
+    "name": "Demo User",
+    "email": "demo@autodiag.app",
+    "passwordHash": "$2b$10$gQ4fPtL5828KBKoprvYsoeAP.WQ0jVR1NZGWSv4wGNpPBCcAgyBX6",
+    "createdAt": "2026-03-29T12:09:50.548Z"
+  }
+]
